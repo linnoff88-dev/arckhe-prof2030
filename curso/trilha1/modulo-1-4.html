@@ -81,8 +81,8 @@
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <span class="inline-block px-3 py-1 bg-emerald-500/20 text-emerald-400 text-xs font-semibold rounded-full mb-4">MÓDULO 1.4</span>
       <h1 class="text-3xl sm:text-4xl font-bold mb-4">🧬 Engenharia de Contexto</h1>
-      <p class="text-lg text-neutral-300 max-w-3xl mb-4">Software 3.0 (Karpathy). Por que prompt sozinho não basta. Janela de contexto, memória, RAG e orquestração.</p>
-      <blockquote class="border-l-4 border-emerald-500/50 pl-4 italic text-neutral-400 max-w-3xl">"Prompts são o novo código-fonte. Inglês é a nova linguagem de programação." <span class="block text-sm mt-1 not-italic text-neutral-500">— Andrej Karpathy (parafraseado)</span></blockquote>
+      <p class="text-lg text-neutral-300 max-w-3xl mb-4">Software 3.0 (Karpathy). Por que prompt sozinho nêo basta. Janela de contexto, memória, RAG e orquestraçêo.</p>
+      <blockquote class="border-l-4 border-emerald-500/50 pl-4 italic text-neutral-400 max-w-3xl">"Prompts sêo o novo código-fonte. Inglês é a nova linguagem de programaçêo." <span class="block text-sm mt-1 not-italic text-neutral-500">— Andrej Karpathy (parafraseado)</span></blockquote>
       <div class="grid grid-cols-4 gap-4 mt-8 max-w-2xl">
         <div class="bg-dark-800/50 rounded-lg p-3 border border-dark-600"><div class="text-xl font-bold text-emerald-400">6</div><div class="text-xs text-neutral-400">Tópicos</div></div>
         <div class="bg-dark-800/50 rounded-lg p-3 border border-dark-600"><div class="text-xl font-bold text-emerald-400">~50</div><div class="text-xs text-neutral-400">Minutos</div></div>
@@ -99,13 +99,13 @@
         <span class="flex items-center justify-center w-12 h-12 rounded-full bg-emerald-500/20 text-emerald-400 font-bold text-xl">1</span>
         <h2 class="text-2xl font-bold">🧬 Software 3.0 — Karpathy</h2>
       </div>
-      <p class="text-neutral-300 mb-6 leading-relaxed">Andrej Karpathy (ex-Tesla AI, OpenAI) categorizou o software em três eras. <strong class="text-emerald-400">Software 1.0</strong> = código humano explícito. <strong class="text-emerald-400">Software 2.0</strong> = redes neurais com pesos aprendidos. <strong class="text-emerald-400">Software 3.0</strong> = LLMs programados via <em>prompts em linguagem natural</em>. LLMs viraram a nova "CPU" — capaz de raciocinar, ler, escrever, decidir. Quem programa em 3.0 é qualquer um que sabe especificar bem. Não é moda — é mudança de paradigma comparável ao surgimento do computador pessoal.</p>
+      <p class="text-neutral-300 mb-6 leading-relaxed">Andrej Karpathy (ex-Tesla AI, OpenAI) categorizou o software em três eras. <strong class="text-emerald-400">Software 1.0</strong> = código humano explícito. <strong class="text-emerald-400">Software 2.0</strong> = redes neurais com pesos aprendidos. <strong class="text-emerald-400">Software 3.0</strong> = LLMs programados via <em>prompts em linguagem natural</em>. LLMs viraram a nova "CPU" — capaz de raciocinar, ler, escrever, decidir. Quem programa em 3.0 é qualquer um que sabe especificar bem. Nêo é moda — é mudança de paradigma comparável ao surgimento do computador pessoal.</p>
 
       <div class="bg-gradient-to-br from-emerald-900/30 to-dark-800 rounded-xl border border-emerald-500/30 p-6 mb-6">
         <h3 class="text-lg font-semibold text-emerald-400 mb-4">🔑 As três eras do software</h3>
         <ul class="space-y-3 text-neutral-300">
           <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">▸</span><span><strong>1.0 (1950+):</strong> Código C, Python, JS — humano escreve cada linha</span></li>
-          <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">▸</span><span><strong>2.0 (2012+):</strong> Pesos de redes neurais — você não escreve, você treina</span></li>
+          <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">▸</span><span><strong>2.0 (2012+):</strong> Pesos de redes neurais — você nêo escreve, você treina</span></li>
           <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">▸</span><span><strong>3.0 (2022+):</strong> Prompts + contexto — você descreve, modelo executa</span></li>
         </ul>
       </div>
@@ -116,7 +116,7 @@
         <span class="flex items-center justify-center w-12 h-12 rounded-full bg-emerald-500/20 text-emerald-400 font-bold text-xl">2</span>
         <h2 class="text-2xl font-bold">🪟 A janela de contexto</h2>
       </div>
-      <p class="text-neutral-300 mb-6 leading-relaxed">A <strong class="text-emerald-400">janela de contexto</strong> é a memória de trabalho do modelo — tudo que ele "vê" ao mesmo tempo. Em 2022 era 4-8k tokens. Em 2026 chegamos a janelas de <strong class="text-emerald-400">1 milhão+</strong> de tokens em modelos como Claude e Gemini. Token é mais ou menos uma sílaba (em inglês, ~4 caracteres). Atenção: existe diferença entre <em>janela total</em> e <em>janela útil</em> — o fenômeno <em>"lost in the middle"</em> mostra que modelos prestam mais atenção ao começo e ao fim do contexto. Posicionamento da informação importa.</p>
+      <p class="text-neutral-300 mb-6 leading-relaxed">A <strong class="text-emerald-400">janela de contexto</strong> é a memória de trabalho do modelo — tudo que ele "vê" ao mesmo tempo. Em 2022 era 4-8k tokens. Em 2026 chegamos a janelas de <strong class="text-emerald-400">1 milhêo+</strong> de tokens em modelos como Claude e Gemini. Token é mais ou menos uma sílaba (em inglês, ~4 caracteres). Atençêo: existe diferença entre <em>janela total</em> e <em>janela útil</em> — o fenômeno <em>"lost in the middle"</em> mostra que modelos prestam mais atençêo ao começo e ao fim do contexto. Posicionamento da informaçêo importa.</p>
 
       <div class="bg-blue-900/20 rounded-xl border border-blue-500/30 p-6 mb-6">
         <h3 class="text-lg font-semibold text-blue-400 mb-4">📊 Tamanhos de janela típicos (2026)</h3>
@@ -130,7 +130,7 @@
 
       <div class="bg-primary/10 rounded-xl border border-primary/40 p-6 mb-6">
         <h3 class="text-lg font-semibold text-primary mb-3">💡 Dica prática</h3>
-        <p class="text-neutral-300">Coloque a instrução crítica <em>no final</em> do prompt longo. Coloque o contexto importante <em>no início</em>. O meio é a área onde o modelo mais perde atenção em janelas grandes.</p>
+        <p class="text-neutral-300">Coloque a instruçêo crítica <em>no final</em> do prompt longo. Coloque o contexto importante <em>no início</em>. O meio é a área onde o modelo mais perde atençêo em janelas grandes.</p>
       </div>
     </section>
 
@@ -139,15 +139,15 @@
         <span class="flex items-center justify-center w-12 h-12 rounded-full bg-emerald-500/20 text-emerald-400 font-bold text-xl">3</span>
         <h2 class="text-2xl font-bold">📚 Memória — curto vs. longo prazo</h2>
       </div>
-      <p class="text-neutral-300 mb-6 leading-relaxed">LLM por padrão é <em>amnésico</em>. <strong class="text-emerald-400">Memória de curto prazo</strong> = a conversa atual, dentro da janela. Toda vez que você abre nova sessão, ele esquece tudo. <strong class="text-emerald-400">Memória de longo prazo</strong> = sistemas externos que você integra: notas persistentes, bases vetoriais, banco de dados. Sem memória externa, você fica re-explicando contexto a cada sessão. ChatGPT/Claude já têm "memória" embutida limitada — mas pra trabalho profissional sério, memória externa estruturada é o salto.</p>
+      <p class="text-neutral-300 mb-6 leading-relaxed">LLM por padrêo é <em>amnésico</em>. <strong class="text-emerald-400">Memória de curto prazo</strong> = a conversa atual, dentro da janela. Toda vez que você abre nova sessêo, ele esquece tudo. <strong class="text-emerald-400">Memória de longo prazo</strong> = sistemas externos que você integra: notas persistentes, bases vetoriais, banco de dados. Sem memória externa, você fica re-explicando contexto a cada sessêo. ChatGPT/Claude já têm "memória" embutida limitada — mas pra trabalho profissional sério, memória externa estruturada é o salto.</p>
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
         <div class="bg-emerald-900/20 rounded-xl border border-emerald-500/30 p-6">
-          <h4 class="font-bold text-emerald-400 mb-4">⚡ Curto prazo (sessão)</h4>
+          <h4 class="font-bold text-emerald-400 mb-4">⚡ Curto prazo (sessêo)</h4>
           <ul class="space-y-2 text-neutral-300">
             <li>• Conversa atual aberta</li>
             <li>• System prompt fixo</li>
-            <li>• Anexos da sessão</li>
+            <li>• Anexos da sessêo</li>
             <li>• Some quando você fecha/limpa</li>
           </ul>
         </div>
@@ -168,14 +168,14 @@
         <span class="flex items-center justify-center w-12 h-12 rounded-full bg-emerald-500/20 text-emerald-400 font-bold text-xl">4</span>
         <h2 class="text-2xl font-bold">🔗 RAG — Retrieval-Augmented Generation</h2>
       </div>
-      <p class="text-neutral-300 mb-6 leading-relaxed"><strong class="text-emerald-400">RAG</strong> é a técnica que faz o modelo trabalhar com <em>seus dados</em> sem alucinar. O fluxo: você indexa seus documentos transformando-os em <strong class="text-emerald-400">embeddings</strong> (vetores matemáticos que capturam significado). Quando faz uma pergunta, o sistema busca os <em>chunks</em> mais similares e injeta no contexto antes da resposta. Resultado: o modelo "sabe" sobre seus documentos sem ter sido treinado neles. RAG resolve dois problemas críticos: <em>conhecimento específico</em> e <em>data freshness</em> (informação recente).</p>
+      <p class="text-neutral-300 mb-6 leading-relaxed"><strong class="text-emerald-400">RAG</strong> é a técnica que faz o modelo trabalhar com <em>seus dados</em> sem alucinar. O fluxo: você indexa seus documentos transformando-os em <strong class="text-emerald-400">embeddings</strong> (vetores matemáticos que capturam significado). Quando faz uma pergunta, o sistema busca os <em>chunks</em> mais similares e injeta no contexto antes da resposta. Resultado: o modelo "sabe" sobre seus documentos sem ter sido treinado neles. RAG resolve dois problemas críticos: <em>conhecimento específico</em> e <em>data freshness</em> (informaçêo recente).</p>
 
       <div class="space-y-4 mb-6">
         <div class="flex items-start space-x-4">
           <div class="flex-shrink-0 w-10 h-10 rounded-full bg-emerald-500/20 flex items-center justify-center"><span class="text-emerald-400 font-bold">1</span></div>
           <div class="flex-1 bg-dark-800 rounded-xl p-4 border border-dark-600">
             <h4 class="font-semibold mb-1">Chunking</h4>
-            <p class="text-neutral-300 text-sm">Quebra documentos em pedaços de ~500-1000 tokens. Granularidade é trade-off entre precisão e contexto.</p>
+            <p class="text-neutral-300 text-sm">Quebra documentos em pedaços de ~500-1000 tokens. Granularidade é trade-off entre precisêo e contexto.</p>
           </div>
         </div>
         <div class="flex items-start space-x-4">
@@ -195,8 +195,8 @@
         <div class="flex items-start space-x-4">
           <div class="flex-shrink-0 w-10 h-10 rounded-full bg-emerald-500/20 flex items-center justify-center"><span class="text-emerald-400 font-bold">4</span></div>
           <div class="flex-1 bg-dark-800 rounded-xl p-4 border border-dark-600">
-            <h4 class="font-semibold mb-1">Geração com contexto</h4>
-            <p class="text-neutral-300 text-sm">Modelo recebe: pergunta + chunks recuperados + instrução. Responde fundamentado.</p>
+            <h4 class="font-semibold mb-1">Geraçêo com contexto</h4>
+            <p class="text-neutral-300 text-sm">Modelo recebe: pergunta + chunks recuperados + instruçêo. Responde fundamentado.</p>
           </div>
         </div>
       </div>
@@ -217,17 +217,17 @@
         <span class="flex items-center justify-center w-12 h-12 rounded-full bg-emerald-500/20 text-emerald-400 font-bold text-xl">5</span>
         <h2 class="text-2xl font-bold">🎼 Orquestrando contexto</h2>
       </div>
-      <p class="text-neutral-300 mb-6 leading-relaxed">Em uso profissional, prompt nunca aparece sozinho. Você <strong class="text-emerald-400">orquestra camadas</strong>: <em>system prompt</em> (regras estáveis), <em>exemplos few-shot</em>, <em>dados recuperados (RAG)</em>, <em>histórico da conversa</em>, <em>instrução final do usuário</em>. Cada camada tem custo (tokens), e a orquestração inteligente equilibra <strong class="text-emerald-400">qualidade × custo × latência</strong>. Quem domina isso opera num nível profissional bem acima do "abro o ChatGPT e pergunto".</p>
+      <p class="text-neutral-300 mb-6 leading-relaxed">Em uso profissional, prompt nunca aparece sozinho. Você <strong class="text-emerald-400">orquestra camadas</strong>: <em>system prompt</em> (regras estáveis), <em>exemplos few-shot</em>, <em>dados recuperados (RAG)</em>, <em>histórico da conversa</em>, <em>instruçêo final do usuário</em>. Cada camada tem custo (tokens), e a orquestraçêo inteligente equilibra <strong class="text-emerald-400">qualidade × custo × latência</strong>. Quem domina isso opera num nível profissional bem acima do "abro o ChatGPT e pergunto".</p>
 
       <div class="bg-gradient-to-br from-emerald-900/30 to-dark-800 rounded-xl border border-emerald-500/30 p-6 mb-6">
         <h3 class="text-lg font-semibold text-emerald-400 mb-4">🎼 Stack de contexto típico</h3>
         <ul class="space-y-2 text-neutral-300">
           <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">1.</span><span><strong>System prompt:</strong> persona, regras, formato — fixo, raramente muda</span></li>
           <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">2.</span><span><strong>Few-shot examples:</strong> 2-3 pares input/output exemplares</span></li>
-          <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">3.</span><span><strong>Recuperação (RAG):</strong> chunks relevantes da base</span></li>
+          <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">3.</span><span><strong>Recuperaçêo (RAG):</strong> chunks relevantes da base</span></li>
           <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">4.</span><span><strong>Memória de longo prazo:</strong> preferências do usuário, decisões anteriores</span></li>
           <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">5.</span><span><strong>Histórico curto:</strong> últimas N trocas da conversa</span></li>
-          <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">6.</span><span><strong>Instrução atual:</strong> pergunta/comando do usuário</span></li>
+          <li class="flex items-start space-x-2"><span class="text-emerald-400 mt-1">6.</span><span><strong>Instruçêo atual:</strong> pergunta/comando do usuário</span></li>
         </ul>
       </div>
     </section>
@@ -237,14 +237,14 @@
         <span class="flex items-center justify-center w-12 h-12 rounded-full bg-emerald-500/20 text-emerald-400 font-bold text-xl">6</span>
         <h2 class="text-2xl font-bold">🧪 Hands-on — contexto rico</h2>
       </div>
-      <p class="text-neutral-300 mb-6 leading-relaxed">Hora de sentir a diferença. Escolha uma tarefa real (resumir um documento longo seu, gerar relatório, responder com base em sua wiki) e monte o stack: system + 2 exemplos + dados + instrução. Rode <em>antes</em> com prompt simples e <em>depois</em> com contexto rico. A diferença de qualidade costuma ser noite e dia. Esse é o momento que muita gente "vê" pela primeira vez do que IA é capaz quando bem alimentada.</p>
+      <p class="text-neutral-300 mb-6 leading-relaxed">Hora de sentir a diferença. Escolha uma tarefa real (resumir um documento longo seu, gerar relatório, responder com base em sua wiki) e monte o stack: system + 2 exemplos + dados + instruçêo. Rode <em>antes</em> com prompt simples e <em>depois</em> com contexto rico. A diferença de qualidade costuma ser noite e dia. Esse é o momento que muita gente "vê" pela primeira vez do que IA é capaz quando bem alimentada.</p>
 
       <div class="space-y-4 mb-6">
         <div class="flex items-start space-x-4">
           <div class="flex-shrink-0 w-10 h-10 rounded-full bg-emerald-500/20 flex items-center justify-center"><span class="text-emerald-400 font-bold">1</span></div>
           <div class="flex-1 bg-dark-800 rounded-xl p-4 border border-dark-600">
             <h4 class="font-semibold mb-1">Escolha tarefa real</h4>
-            <p class="text-neutral-300 text-sm">Algo que você faria mesmo essa semana — não exemplo de brincadeira.</p>
+            <p class="text-neutral-300 text-sm">Algo que você faria mesmo essa semana — nêo exemplo de brincadeira.</p>
           </div>
         </div>
         <div class="flex items-start space-x-4">
@@ -271,7 +271,7 @@
         <div class="flex items-start space-x-4">
           <div class="flex-shrink-0 w-10 h-10 rounded-full bg-emerald-500/20 flex items-center justify-center"><span class="text-emerald-400 font-bold">5</span></div>
           <div class="flex-1 bg-dark-800 rounded-xl p-4 border border-dark-600">
-            <h4 class="font-semibold mb-1">Instrução final clara</h4>
+            <h4 class="font-semibold mb-1">Instruçêo final clara</h4>
             <p class="text-neutral-300 text-sm">No fim do prompt, repita o que você quer e em que formato.</p>
           </div>
         </div>
@@ -279,7 +279,7 @@
 
       <div class="bg-primary/10 rounded-xl border border-primary/40 p-6 mb-6">
         <h3 class="text-lg font-semibold text-primary mb-3">💡 Dica prática</h3>
-        <p class="text-neutral-300">Salve esse stack como template reutilizável. A próxima tarefa do mesmo tipo só requer trocar a "instrução final" e talvez os dados. Você acabou de criar um agente especializado mínimo.</p>
+        <p class="text-neutral-300">Salve esse stack como template reutilizável. A próxima tarefa do mesmo tipo só requer trocar a "instruçêo final" e talvez os dados. Você acabou de criar um agente especializado mínimo.</p>
       </div>
     </section>
 
@@ -291,7 +291,7 @@
           <div class="flex items-start space-x-3"><span class="text-emerald-400 mt-1">✓</span><div><strong class="text-neutral-100">Janela de contexto</strong> <span class="text-neutral-400">— posicionamento importa, "lost in the middle" é real.</span></div></div>
           <div class="flex items-start space-x-3"><span class="text-emerald-400 mt-1">✓</span><div><strong class="text-neutral-100">Memória curto vs. longo prazo</strong> <span class="text-neutral-400">— externa estrutura é o salto profissional.</span></div></div>
           <div class="flex items-start space-x-3"><span class="text-emerald-400 mt-1">✓</span><div><strong class="text-neutral-100">RAG</strong> <span class="text-neutral-400">— como o modelo trabalha com SEUS dados sem alucinar.</span></div></div>
-          <div class="flex items-start space-x-3"><span class="text-emerald-400 mt-1">✓</span><div><strong class="text-neutral-100">Orquestração</strong> <span class="text-neutral-400">— stack: system + few-shot + RAG + memória + histórico + instrução.</span></div></div>
+          <div class="flex items-start space-x-3"><span class="text-emerald-400 mt-1">✓</span><div><strong class="text-neutral-100">Orquestraçêo</strong> <span class="text-neutral-400">— stack: system + few-shot + RAG + memória + histórico + instruçêo.</span></div></div>
         </div>
         <div class="bg-dark-800/50 rounded-lg p-4 mb-8">
           <h3 class="font-semibold text-emerald-400 mb-2">Próximo Módulo:</h3>

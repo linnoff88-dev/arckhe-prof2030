@@ -18,19 +18,19 @@
 - Multiagentes (4 trilhas, 32 módulos): https://inematds.github.io/multiagentes/
 - AgenteJAX: https://inematds.github.io/agentejax/
 - Vibe Coding (4 trilhas, 31 módulos): https://inematds.github.io/vibecode
-- Automação 2026: https://inematds.github.io/AUTOMACAO2026
+- Automaçêo 2026: https://inematds.github.io/AUTOMACAO2026
 - Power Design — 20 Princípios: https://inematds.github.io/power-design/
 - Mentes Brilhantes: https://inematds.github.io/mentesbrilhantes1/
 
 ### Vídeos de referência
 - Hackathon 24h IA: https://www.youtube.com/watch?v=jG_YP8vnc8o
 - IA para 2026 (live): https://www.youtube.com/live/uVcv51JXWCA
-- INEMA Imersão N8N Básico: https://www.youtube.com/watch?v=9SJKmWKSBCM
+- INEMA Imersêo N8N Básico: https://www.youtube.com/watch?v=9SJKmWKSBCM
 - Cloud Code na Prática: https://www.youtube.com/watch?v=oR7vkdgnPus
 - ENGENHARIA DE PROMPTS e Automações Lucrativas: https://www.youtube.com/watch?v=Jf8aL6AezkU
 
-### Observação estratégica
-**O termo "tripé" não está cristalizado em material público indexado.** Nei usa nas lives e na comunidade VIP, mas não há landing/post pública nomeando o framework. **ESTE CURSO é o lugar onde o tripé ganha nome próprio** e vira ativo de marca.
+### Observaçêo estratégica
+**O termo "tripé" nêo está cristalizado em material público indexado.** Nei usa nas lives e na comunidade VIP, mas nêo há landing/post pública nomeando o framework. **ESTE CURSO é o lugar onde o tripé ganha nome próprio** e vira ativo de marca.
 
 ---
 
@@ -51,25 +51,25 @@ URL canônica: https://lexfridman.com/jensen-huang-transcript/
 
 ---
 
-## 3. Validação por perna do tripé
+## 3. Validaçêo por perna do tripé
 
-### Perna A — Comunicação com a Máquina
+### Perna A — Comunicaçêo com a Máquina
 - Karpathy — Software 1.0 → 2.0 → 3.0; "context engineering". https://x.com/karpathy/status/1937902205765607626
 - Sam Altman — Aposta de unicórnio de uma pessoa. https://fortune.com/2024/02/04/sam-altman-one-person-unicorn-silicon-valley-founder-myth/
-- WEF Future of Jobs 2025 — "AI and big data" são as habilidades de crescimento mais rápido.
+- WEF Future of Jobs 2025 — "AI and big data" sêo as habilidades de crescimento mais rápido.
 - BR: Vagas de IA 19k → 73k em 3 anos; salários crescem 2x mais rápido.
 
-### Perna B — Empreender pela Automação
+### Perna B — Empreender pela Automaçêo
 - Naval Ravikant — 4 alavancas (capital, trabalho, código, mídia) + IA como 5ª.
 - Pieter Levels — US$3,5M/ano solo, 12+ produtos. https://filenux.com/news/how-pieter-levels-built-a-3-5m-ai-empire-as-a-solo-developer/
 - Greg Isenberg — Community-first + no-code + AI. https://www.gregisenberg.com/
 - Dan Koe — One-person business. https://thedankoe.com/
-- Stack econômica: US$3-12k/ano vs. US$1,2-1,4M (equipe 10p) — redução de 95-98%.
+- Stack econômica: US$3-12k/ano vs. US$1,2-1,4M (equipe 10p) — reduçêo de 95-98%.
 
 ### Perna C — Empatia e Comportamento
 - Daniel Goleman — "IE será chave para se adaptar à IA." 58% mais performance. https://neofeed.com.br/finde/a-inteligencia-emocional-sera-chave-para-se-adaptar-a-ia-quem-diz-e-o-proprio-autor-do-conceito/
-- WEF 2025 — Empatia, escuta ativa, resiliência têm as MENORES taxas de substituição por IA.
-- McKinsey BR — Automação afeta menos empregos com gestão de pessoas.
+- WEF 2025 — Empatia, escuta ativa, resiliência têm as MENORES taxas de substituiçêo por IA.
+- McKinsey BR — Automaçêo afeta menos empregos com gestêo de pessoas.
 - FGV/ITS Rio — 30% dos ocupados expostos à IA generativa.
 
 ---
@@ -77,9 +77,9 @@ URL canônica: https://lexfridman.com/jensen-huang-transcript/
 ## 4. Gatilhos emocionais (BR)
 
 ### Medos
-1. **Substituição** — 76% temem (Page/Exame). https://exame.com/carreira/mais-da-metade-dos-profissionais-tem-medo-de-perder-o-emprego-para-a-ia-como-acompanhar-os-avancos/
+1. **Substituiçêo** — 76% temem (Page/Exame). https://exame.com/carreira/mais-da-metade-dos-profissionais-tem-medo-de-perder-o-emprego-para-a-ia-como-acompanhar-os-avancos/
 2. **Lacuna digital** — <30% têm habilidades digitais básicas.
-3. **Ficar pra trás** — copy "Não fique para trás" funciona.
+3. **Ficar pra trás** — copy "Nêo fique para trás" funciona.
 4. **Identidade profissional** — perder anos investidos.
 5. **Insegurança financeira** — disfarçada de propósito.
 
@@ -98,9 +98,9 @@ URL canônica: https://lexfridman.com/jensen-huang-transcript/
 |---|---|---|
 | IA Expert Academy | Técnica/DS | Sem empreender + sem comportamento |
 | Comunidade IA na Prática (Ricotta) | Marketing | Sem técnica profunda + sem comportamento |
-| Onebitcode (n8n) | Automação técnica | Sem carreira + sem comportamento |
+| Onebitcode (n8n) | Automaçêo técnica | Sem carreira + sem comportamento |
 | INEMA TDS | Lives/comunidade | Fragmentado entre plataformas |
-| A Nova Era (Programação Web) | Dev/IA | Só programadores |
+| A Nova Era (Programaçêo Web) | Dev/IA | Só programadores |
 
 **Gap único do PROF 2030:** primeiro curso BR que une as 3 pernas como sistema interdependente.
 
@@ -110,22 +110,22 @@ URL canônica: https://lexfridman.com/jensen-huang-transcript/
 
 ### Trilha 1
 - 30M → 1B de programadores (Jensen)
-- Software 3.0: prompts são o novo código (Karpathy)
+- Software 3.0: prompts sêo o novo código (Karpathy)
 - Vagas IA BR: 19k → 73k em 3 anos
 
 ### Trilha 2
 - Pieter Levels: US$3,5M solo
 - Sam Altman: unicórnio de uma pessoa está chegando
-- Stack solo: redução 95-98% vs. equipe
+- Stack solo: reduçêo 95-98% vs. equipe
 - Naval: leverage = sistemas que produzem valor após o setup
 
 ### Trilha 3
-- Jensen: "caráter, humanidade, compaixão são poderes sobre-humanos"
+- Jensen: "caráter, humanidade, compaixêo sêo poderes sobre-humanos"
 - Goleman: 58% mais performance com alta IE
-- WEF: empatia tem MENOR substituição por IA
-- McKinsey: automação afeta menos quem gere pessoas
+- WEF: empatia tem MENOR substituiçêo por IA
+- McKinsey: automaçêo afeta menos quem gere pessoas
 
 ### Metáforas-âncora
-- **T1:** "O tradutor do séc. XXI não traduz idiomas — traduz intenção humana para linguagem de máquina."
-- **T2:** "Você não precisa de um exército. Precisa de máquinas que trabalham enquanto você dorme."
+- **T1:** "O tradutor do séc. XXI nêo traduz idiomas — traduz intençêo humana para linguagem de máquina."
+- **T2:** "Você nêo precisa de um exército. Precisa de máquinas que trabalham enquanto você dorme."
 - **T3:** "Quando a inteligência vira commodity, o que sobra é você."

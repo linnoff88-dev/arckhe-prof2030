@@ -1,7 +1,7 @@
 # PROF2030 — O Profissional do Futuro: O Tripé do Nei Maldaner
 
 **Data:** 2026-05-08
-**Autor:** Nei Maldaner (visão e tripé)
+**Autor:** Nei Maldaner (visêo e tripé)
 **Formato:** Curso HTML INEMA.CLUB
 **Status:** Design aprovado por Nei em 2026-05-08
 **Repo:** https://github.com/inematds/prof2030
@@ -11,8 +11,8 @@
 
 Curso baseado no **tripé** que Nei Maldaner ensina sobre o profissional do futuro:
 
-1. **Comunicação com a Máquina** — saber dialogar com IA (prompt + context engineering)
-2. **Empreender através da Automação** — gerar receita e alavancagem com IA + n8n
+1. **Comunicaçêo com a Máquina** — saber dialogar com IA (prompt + context engineering)
+2. **Empreender através da Automaçêo** — gerar receita e alavancagem com IA + n8n
 3. **Empatia e Comportamento Humano** — caráter como vantagem competitiva insubstituível
 
 Conteúdo de Nei reforçado pela entrevista de **Jensen Huang** (Lex Fridman Podcast #494, mar/2026) e por autoridades externas (Karpathy, Naval, Goleman, Sam Altman, Pieter Levels, WEF Future of Jobs 2025).
@@ -25,29 +25,29 @@ Conteúdo de Nei reforçado pela entrevista de **Jensen Huang** (Lex Fridman Pod
 
 **3 trilhas × 6 módulos = 18 módulos totais.** 6 tópicos por módulo = 108 tópicos.
 
-Arco emocional comum: **Despertar → Fundamento → Prática → Aplicação → Síntese → Projeto**.
+Arco emocional comum: **Despertar → Fundamento → Prática → Aplicaçêo → Síntese → Projeto**.
 
 ### Trilha 1 — Comunicar com a Máquina (Emerald)
 - Gatilho: "Antes que a IA te substitua"
-- Metáfora: "O tradutor do séc. XXI traduz intenção humana para linguagem de máquina."
-- Epígrafe: Jensen — "A definição de programar hoje é simplesmente especificar."
+- Metáfora: "O tradutor do séc. XXI traduz intençêo humana para linguagem de máquina."
+- Epígrafe: Jensen — "A definiçêo de programar hoje é simplesmente especificar."
 - Módulos: Despertar (30M→1B) · Ferramenta vs. Propósito · Engenharia de Prompt · Engenharia de Contexto · Dialogar com Agentes · Projeto: Agente Pessoal
 
-### Trilha 2 — Empreender pela Automação (Blue)
+### Trilha 2 — Empreender pela Automaçêo (Blue)
 - Gatilho: "O profissional que o mundo vai pagar caro pra ter"
-- Metáfora: "Você não precisa de um exército. Precisa de máquinas que trabalham enquanto você dorme."
+- Metáfora: "Você nêo precisa de um exército. Precisa de máquinas que trabalham enquanto você dorme."
 - Epígrafe: Sam Altman — "A primeira empresa unicórnio de uma pessoa está chegando."
 - Módulos: Despertar (alavancagem) · Solopreneur Real · n8n na Prática · Stack econômica · Precificar e vender · Projeto: Produto Automatizado
 
 ### Trilha 3 — Liderar com Humanidade (Purple)
 - Gatilho: "Forme pessoas insubstituíveis"
 - Metáfora: "Quando a inteligência vira commodity, o que sobra é você."
-- Epígrafe: Jensen — "Caráter, humanidade, compaixão — esses são os poderes sobre-humanos."
-- Módulos: Despertar (commodity) · 5 pilares de Goleman · Caráter como vantagem · Antecipação · Formar insubstituíveis · Projeto: Identidade
+- Epígrafe: Jensen — "Caráter, humanidade, compaixêo — esses sêo os poderes sobre-humanos."
+- Módulos: Despertar (commodity) · 5 pilares de Goleman · Caráter como vantagem · Antecipaçêo · Formar insubstituíveis · Projeto: Identidade
 
 ## 4. Tecnologia
 
-- HTML estático no padrão **INEMA.CLUB**
+- HTML estático no padrêo **INEMA.CLUB**
 - Tailwind CDN
 - Inter font (Google Fonts)
 - Dark/light mode com persistência via localStorage
@@ -77,15 +77,15 @@ prof2030/
 ## 6. Gatilhos emocionais validados (BR)
 
 - **Medo dominante:** 76% dos profissionais brasileiros temem ser substituídos por IA (Page/Exame).
-- **Ambição dominante:** 63% querem renda > 6 SM em 5 anos; 33% querem empreender.
+- **Ambiçêo dominante:** 63% querem renda > 6 SM em 5 anos; 33% querem empreender.
 - **Responsabilidade dominante:** 44% querem garantir conforto futuro pros filhos.
 
-Cada gatilho mapeia diretamente para uma das 3 trilhas (medo→T1, ambição→T2, responsabilidade→T3).
+Cada gatilho mapeia diretamente para uma das 3 trilhas (medo→T1, ambiçêo→T2, responsabilidade→T3).
 
 ## 7. Fora do escopo (YAGNI)
 
 - Vídeos gravados
-- Sistema de login/progressão persistente
+- Sistema de login/progressêo persistente
 - Pagamento e gateway (curso entra no INEMA.VIP)
-- Tradução pra outros idiomas
+- Traduçêo pra outros idiomas
 - App mobile nativo
