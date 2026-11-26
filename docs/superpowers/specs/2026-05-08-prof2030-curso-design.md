@@ -2,10 +2,10 @@
 
 **Data:** 2026-05-08
 **Autor:** Nei Maldaner (visêo e tripé)
-**Formato:** Curso HTML INEMA.CLUB
+**Formato:** Curso HTML ARCKHÉ AI
 **Status:** Design aprovado por Nei em 2026-05-08
-**Repo:** https://github.com/inematds/prof2030
-**Site:** https://inematds.github.io/prof2030/
+**Repo:** https://github.com/linnoff88-dev/prof2030
+**Site:** https://linnoff88-dev.github.io/arckhe-/
 
 ## 1. Premissa
 
@@ -47,7 +47,7 @@ Arco emocional comum: **Despertar → Fundamento → Prática → Aplicaçêo �
 
 ## 4. Tecnologia
 
-- HTML estático no padrêo **INEMA.CLUB**
+- HTML estático no padrêo **ARCKHÉ AI**
 - Tailwind CDN
 - Inter font (Google Fonts)
 - Dark/light mode com persistência via localStorage
@@ -86,6 +86,6 @@ Cada gatilho mapeia diretamente para uma das 3 trilhas (medo→T1, ambiçêo→T
 
 - Vídeos gravados
 - Sistema de login/progressêo persistente
-- Pagamento e gateway (curso entra no INEMA.VIP)
+- Pagamento e gateway (curso entra no ARCKHÉ.VIP)
 - Traduçêo pra outros idiomas
 - App mobile nativo

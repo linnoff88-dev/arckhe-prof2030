@@ -10,22 +10,22 @@
 
 ### Canais públicos
 - LinkedIn principal: https://www.linkedin.com/in/nei-maldaner-188753273/
-- Portal central: https://inema.club
-- Comunidade VIP (R$35/mês): https://inema.vip
+- Portal central: https://ARCKHÉ AI
+- Comunidade VIP (R$35/mês): https://ARCKHÉ.vip
 
-### Produtos no ecossistema INEMA.CLUB
-- FEC — Engenharia de Contexto: https://inematds.github.io/FEC/
-- Multiagentes (4 trilhas, 32 módulos): https://inematds.github.io/multiagentes/
-- AgenteJAX: https://inematds.github.io/agentejax/
-- Vibe Coding (4 trilhas, 31 módulos): https://inematds.github.io/vibecode
-- Automaçêo 2026: https://inematds.github.io/AUTOMACAO2026
-- Power Design — 20 Princípios: https://inematds.github.io/power-design/
-- Mentes Brilhantes: https://inematds.github.io/mentesbrilhantes1/
+### Produtos no ecossistema ARCKHÉ AI
+- FEC — Engenharia de Contexto: https://linnoff88-dev.github.io/arckhe-/
+- Multiagentes (4 trilhas, 32 módulos): https://linnoff88-dev.github.io/arckhe-/
+- AgenteJAX: https://linnoff88-dev.github.io/arckhe-/
+- Vibe Coding (4 trilhas, 31 módulos): https://linnoff88-dev.github.io/arckhe-vibecode
+- Automaçêo 2026: https://linnoff88-dev.github.io/arckhe-AUTOMACAO2026
+- Power Design — 20 Princípios: https://linnoff88-dev.github.io/arckhe-/
+- Mentes Brilhantes: https://linnoff88-dev.github.io/arckhe-/
 
 ### Vídeos de referência
 - Hackathon 24h IA: https://www.youtube.com/watch?v=jG_YP8vnc8o
 - IA para 2026 (live): https://www.youtube.com/live/uVcv51JXWCA
-- INEMA Imersêo N8N Básico: https://www.youtube.com/watch?v=9SJKmWKSBCM
+- ARCKHÉ Imersêo N8N Básico: https://www.youtube.com/watch?v=9SJKmWKSBCM
 - Cloud Code na Prática: https://www.youtube.com/watch?v=oR7vkdgnPus
 - ENGENHARIA DE PROMPTS e Automações Lucrativas: https://www.youtube.com/watch?v=Jf8aL6AezkU
 
@@ -99,7 +99,7 @@ URL canônica: https://lexfridman.com/jensen-huang-transcript/
 | IA Expert Academy | Técnica/DS | Sem empreender + sem comportamento |
 | Comunidade IA na Prática (Ricotta) | Marketing | Sem técnica profunda + sem comportamento |
 | Onebitcode (n8n) | Automaçêo técnica | Sem carreira + sem comportamento |
-| INEMA TDS | Lives/comunidade | Fragmentado entre plataformas |
+| ARCKHÉ TDS | Lives/comunidade | Fragmentado entre plataformas |
 | A Nova Era (Programaçêo Web) | Dev/IA | Só programadores |
 
 **Gap único do PROF 2030:** primeiro curso BR que une as 3 pernas como sistema interdependente.

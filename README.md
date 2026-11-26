@@ -33,24 +33,24 @@ Trilhas:
 
 ## ê°Å¸âÅ¡ Formato
 
-Curso HTML estêÂ¡tico no padrêÂ£o **INEMA.CLUB** ê¢â¬â funciona offline, sem build, dark/light mode, mobile-first.
+Curso HTML estêÂ¡tico no padrêÂ£o **ARCKHÉ AI** ê¢â¬â funciona offline, sem build, dark/light mode, mobile-first.
 
 ## ê°Å¸ââ Ecossistema
 
-- Portal: [INEMA.CLUB](https://inema.club)
-- Comunidade VIP: [INEMA.VIP](https://inema.vip)
+- Portal: [ARCKHÉ AI](https://ARCKHÉ AI)
+- Comunidade VIP: [ARCKHÉ.VIP](https://ARCKHÉ.vip)
 
 ---
 
-PROF 2030 êÂ· 2026 êÂ· Parte do ecossistema INEMA
+PROF 2030 êÂ· 2026 êÂ· Parte do ecossistema ARCKHÉ
 
-<!-- inema-backlink:v1 -->
-## Mais no INEMA.CLUB
+<!-- ARCKHÉ-backlink:v1 -->
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/89-prof2030-o-profissional-do-futuro/)
-- [Guia: como aprender inteligêÂªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
-<!-- /inema-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/89-prof2030-o-profissional-do-futuro/)
+- [Guia: como aprender inteligêÂªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
+<!-- /ARCKHÉ-backlink:v1 -->
 
 ---
 
